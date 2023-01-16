@@ -20,8 +20,6 @@ describe('Cadastro', function () {
             signupPage.form(user)
             signupPage.submit()
             signupPage.toast.shouldHaveText('Agora você se tornou um(a) Samurai, faça seu login para ver seus agendamentos!')
-
-
         });
     })
 
