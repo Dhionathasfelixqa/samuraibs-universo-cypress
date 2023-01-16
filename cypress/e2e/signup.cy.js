@@ -1,4 +1,4 @@
-import signupPage from '../support/pages/signup/indexd'
+import signupPage from '../support/pages/signup/index'
 
 describe('Cadastro', function () {
     context('Quando o usuario é novato', function () {
